@@ -1,0 +1,18 @@
+[
+    {
+      "Id": 1,
+      "BookItemId": 17,
+      "PatronId": 22,
+      "LoanDate": "2023-12-08T00:40:43.1808862",
+      "DueDate": "2023-12-22T00:40:43.1808862",
+      "ReturnDate": null
+    },
+    {
+      "Id": 2,
+      "BookItemId": 6,
+      "PatronId": 28,
+      "LoanDate": "2023-12-17T00:40:43.1809243",
+      "DueDate": "2023-12-31T00:40:43.1809243",
+      "ReturnDate": null
+    }
+]
